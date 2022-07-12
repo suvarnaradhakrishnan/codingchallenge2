@@ -1,0 +1,17 @@
+.home{
+    height: 545px;
+    padding-left: 10%;
+    padding-top: 14%;
+   background-image: url(../../assets/images/bg2.jpg);
+   background-size: cover;
+  
+}
+
+.home-body{
+    width: 50%;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+

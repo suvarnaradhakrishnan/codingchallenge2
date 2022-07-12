@@ -1,0 +1,12 @@
+.services{
+    height: 545px;
+    /* /* padding: 100px; */
+    padding-top: 100px; 
+    padding-left: 250px;
+    background-color:lightgreen;
+}
+
+.car{
+    height: 400px;
+    width: 600px;
+}
